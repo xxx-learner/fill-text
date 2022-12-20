@@ -1,5 +1,3 @@
-''' space is a string'''
-'''capitalize(),COUNT().string.whitespace()'''
 
 
 def space():
@@ -14,7 +12,6 @@ def space():
 
 
 
-"what am ı wanting? I dont wanna count space"
 
 
 
@@ -28,14 +25,6 @@ def space():
 
 
 
-
-        """ I want to three more spaces add word but I don'T wanna make much effort"""
-        
-
-
-    
-
-''' space is a string.Now I search string'''
 
 
                           
